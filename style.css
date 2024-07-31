@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+
+}
+.one{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+/* hr{
+    border:  1px solid #6a959d;
+} */
+/* ul li{
+    display: inline;
+    margin: 13px;
+} */
+ul li{padding: 12px 18px;
+padding-top: 1rem;
+display: inline-block;
+padding-bottom: 1.5rem;
+margin: 2px;
+}
+
+ul a{
+    text-decoration:none;
+    color: white !important;
+    text-transform: capitalize;
+    border: 3px solid white;
+    border-radius: 5px;
+    padding: 6px 16px 6px 16px;
+}
+ a:visited{
+    background-color:#333333;
+    color:white;
+}
+ a:link{
+    background-color:  black;
+    color: white;
+}   
+ a:hover{
+    background-color:#6a959d;
+    color:white;
+}
+.divider{
+    width: 100%;
+    height: 2px;
+    background-color:#6a959d;
+    display: inline-block;
+}
+h2,h3{
+    color:#6a959d;
+}
+.two{
+    background-color:#2a2a2a;
+   padding: 40px;
+    border-radius: 7px;
+    
+
+}
+p{
+    color: white;
+}
+.main{
+    background-color: black;
+    padding: 20px;
+}
+.three{
+    background-color: #3a3a3a;
+   padding: 40px;
+    border-radius: 7px;
+
+}
+.four{
+    background-color:#2a2a2a;
+   padding: 40px;
+    border-radius: 7px;
+}
+.five{
+    background-color: #3a3a3a;
+    padding: 40px;
+     border-radius: 7px;
+}
+.six{
+    background-color:#2a2a2a;
+   padding: 50px;
+    border-radius: 7px;
+
+}
+.gallery{
+    display: inline-block;
+    background-color: white;
+    color: lightgray;
+    width: 13vw;
+    height: 25vh;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+.seven{
+    background-color:#3a3a3a;
+    padding: 40px;
+     border-radius: 7px;
+
+}
+.seven p{
+    position: relative;
+    text-align: center;
+    top: 45%;
+    font-size: large;
+    color: rgb(216, 213, 213) !important;
+
+}
+.eight{
+    background-color:#2a2a2a;
+   padding: 50px;
+    border-radius: 7px;
+}
+.test1{
+    background-color:#3a3a3a;
+    padding: 25px;
+     border-radius: 7px;
+     font-size: medium;
+     border-left: 5px solid #6a959d;
+     font-weight: bold;
+}
+.para{
+    text-align: right;
+}
+.nine{
+    background-color:#3a3a3a;
+    padding: 40px;
+     border-radius: 7px;
+
+}
+.test2{
+    background-color: #333333;
+    color:white;
+    padding: 30px;
+    font-size: 18px;    
+}
+.test2 :hover{
+    color:#6a959d;
+}
+.ten{
+    background-color:#2a2a2a;
+    padding: 50px;
+     border-radius: 7px;
+}
+textarea{
+    background-color:#333333;
+    color:  #fff;
+    outline: none;
+    border-radius: 4px
+    
+}
+button{
+    width: 99%;
+    height: 5vh;
+    background-color: #6a959d;
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 4px;
+    transform: background-color 0.3s ease;
+}
+.eleven{
+    background-color:#3a3a3a;
+    padding: 40px;
+     border-radius: 7px;
+
+}
+.twelve{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+
+}
+
+
